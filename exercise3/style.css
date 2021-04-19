@@ -1,0 +1,104 @@
+body
+{
+  background-color: black;
+  background-image: url(https://pbs.twimg.com/profile_images/1222654825403424768/-ySQePLc_400x400.jpg);
+  background-repeat: repeat-x;
+  background-size: auto;
+  background-position: 50% 20%;
+  background-attachment: local;
+}
+
+img.profile
+{
+  display: block;
+  height: 400px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid white;
+}
+
+h1
+{
+  text-align: center;
+  font-family: "Arial";
+  color: crimson;
+  font-size: 60pt;
+  font-weight: bold;
+  background-color: black;
+  border: 10px solid yellow;
+}
+
+h2
+{
+  text-align: left;
+  font-family: "Arial";
+  color: yellow;
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+h3
+{
+  text-align: left;
+  font-family: "Arial";
+  color: crimson;
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+h4
+{
+  text-align: left;
+  font-family: "Arial";
+  color: yellow;
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+p1
+{
+  font-family: arial;
+  text-align: center;
+  color: black;
+  background-color: white;
+  font-size: 18pt;
+}
+
+button
+{
+  padding: 30px 32px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 20px;
+  font-family: cursive;
+  color: black;
+}
+
+button.blue_button:hover
+{
+  background-color: mediumblue;
+  border: dashed;
+  border-color: sandybrown;
+  color: white;
+  font-weight: bold;
+}
+
+button.red_button:hover
+{
+  background-color: red;
+  border: dashed;
+  border-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+button.green_button:hover
+{
+  background-color: limegreen;
+  border: dashed;
+  border-color: black;
+  color: white;
+  font-weight: bold;
+}
