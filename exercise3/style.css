@@ -80,7 +80,7 @@ button.blue_button:hover
 {
   background-color: mediumblue;
   border: dashed;
-  border-color: sandybrown;
+  border-color: white;
   color: white;
   font-weight: bold;
 }
@@ -89,7 +89,7 @@ button.red_button:hover
 {
   background-color: red;
   border: dashed;
-  border-color: black;
+  border-color: white;
   color: white;
   font-weight: bold;
 }
@@ -98,7 +98,7 @@ button.green_button:hover
 {
   background-color: limegreen;
   border: dashed;
-  border-color: black;
+  border-color: whtie;
   color: white;
   font-weight: bold;
 }
